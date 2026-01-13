@@ -20,6 +20,10 @@
     <!-- Canonical URL -->
     <link rel="canonical" href="https://hairbyrilee.com">
     
+    <!-- Favicon -->
+    <link rel="icon" type="image/avif" href="images/R.avif">
+    <link rel="apple-touch-icon" href="images/R.avif">
+    
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://hairbyrilee.com">
@@ -28,6 +32,8 @@
     <meta property="og:image" content="https://hairbyrilee.com/images/rilee-portfolio.jpg">
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="Hair By Rilee">
+    <meta property="fb:app_id" content="">
+    <link rel="me" href="https://www.facebook.com/share/17hxDzvtQP/?mibextid=wwXIfr">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -41,6 +47,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&family=Montserrat:wght@200;300;400&display=swap" rel="stylesheet">
     
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/d105c3cb1d.js" crossorigin="anonymous"></script>
+    
     <!-- Stylesheet -->
     <link rel="stylesheet" href="styles.css">
     
@@ -49,14 +58,16 @@
     {
         "@context": "https://schema.org",
         "@type": "HairSalon",
-        "name": "Hair By Rilee",
+        "name": "Hair By Rilee at Envi Hair Studio",
+        "alternateName": "Hair By Rilee",
         "image": "https://hairbyrilee.com/images/rilee-portfolio.jpg",
         "description": "Professional hair stylist in Pennington Gap, Virginia specializing in balayage, ombre, cuts, colors, and styling services.",
         "url": "https://hairbyrilee.com",
-        "telephone": "",
+        "telephone": "+1-276-219-8637",
         "priceRange": "$$",
         "address": {
             "@type": "PostalAddress",
+            "streetAddress": "112 S Johnson Dr",
             "addressLocality": "Pennington Gap",
             "addressRegion": "VA",
             "addressCountry": "US",
@@ -90,7 +101,9 @@
             "Hair Styling",
             "Hair Treatment"
         ],
-        "sameAs": []
+        "sameAs": [
+            "https://www.facebook.com/share/17hxDzvtQP/?mibextid=wwXIfr"
+        ]
     }
     </script>
 </head>
@@ -112,6 +125,47 @@
             
             <div class="gallery-grid" id="gallery">
                 <!-- Gallery items will be loaded by JavaScript -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-section">
+        <div class="container">
+            <h2 class="contact-heading">Book Your Appointment</h2>
+            <p class="contact-subheading">Transform your hair with professional styling</p>
+            
+            <div class="contact-info">
+                <a href="tel:+12762198637" class="contact-link">
+                    <i class="fas fa-phone-alt"></i>
+                    <span class="contact-number">(276) 219-8637</span>
+                </a>
+                
+                <div class="business-address">
+                    <h3 class="business-name">
+                        <i class="fas fa-scissors"></i>
+                        Envi Hair Studio
+                    </h3>
+                    <a href="https://maps.google.com/?q=112+S+Johnson+Dr,+Pennington+Gap,+VA+24277" target="_blank" rel="noopener noreferrer" class="address-link">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>
+                            112 S Johnson Dr<br>
+                            Pennington Gap, VA 24277
+                        </span>
+                    </a>
+                </div>
+                
+                <div class="social-links">
+                    <a href="https://www.facebook.com/share/17hxDzvtQP/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Visit Hair By Rilee on Facebook">
+                        <i class="fab fa-facebook-f"></i>
+                        <span>Follow on Facebook</span>
+                    </a>
+                </div>
+                
+                <p class="contact-location">
+                    <i class="fas fa-map-marker-alt"></i>
+                    Serving Pennington Gap & Lee County, Virginia
+                </p>
             </div>
         </div>
     </section>

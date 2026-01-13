@@ -106,9 +106,20 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Smooth scroll animation for hero section
+// Smooth scroll animation for hero section (desktop only)
+let ticking = false;
+
 window.addEventListener('scroll', () => {
-    const hero = document.querySelector('.hero');
-    const scrolled = window.pageYOffset;
-    hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+    // Only apply parallax on desktop (screens wider than 768px)
+    if (window.innerWidth > 768) {
+        if (!ticking) {
+            window.requestAnimationFrame(() => {
+                const hero = document.querySelector('.hero');
+                const scrolled = window.pageYOffset;
+                hero.style.transform = `translateY(${scrolled * 0.5}px)`;
+                ticking = false;
+            });
+            ticking = true;
+        }
+    }
 });
