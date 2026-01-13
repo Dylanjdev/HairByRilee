@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://hairbyrilee.com</loc>
+        <lastmod>2026-01-12</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        
+        <!-- Gallery Images -->
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/rilee-portfolio.jpg</image:loc>
+            <image:title>Hair By Rilee - Professional Hair Stylist Portfolio</image:title>
+            <image:caption>Rilee - Professional Hair Stylist in Pennington Gap, Lee County, Virginia</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/balayage-blonde.jpg</image:loc>
+            <image:title>Balayage Blonde Hair Styling</image:title>
+            <image:caption>Professional balayage blonde hair by Rilee in Pennington Gap VA</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/ombre-brunette.jpg</image:loc>
+            <image:title>Ombre Brunette Hair Coloring</image:title>
+            <image:caption>Beautiful ombre brunette hair color by Rilee in Lee County Virginia</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/beach-waves.jpg</image:loc>
+            <image:title>Beach Waves Hair Styling</image:title>
+            <image:caption>Beach waves hair styling by professional stylist in Pennington Gap</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/pixie-cut.jpg</image:loc>
+            <image:title>Pixie Cut Hair Styling</image:title>
+            <image:caption>Pixie cut by expert hair stylist in Lee County VA</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/long-layers.jpg</image:loc>
+            <image:title>Long Layers Hair Cut</image:title>
+            <image:caption>Long layered haircut by Rilee in Pennington Gap Virginia</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/bob-cut.jpg</image:loc>
+            <image:title>Bob Cut Hair Styling</image:title>
+            <image:caption>Professional bob cut by Hair By Rilee</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/highlights-caramel.jpg</image:loc>
+            <image:title>Caramel Highlights Hair Color</image:title>
+            <image:caption>Caramel highlights by professional colorist in Pennington Gap</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/shag-cut.jpg</image:loc>
+            <image:title>Shag Cut Hair Styling</image:title>
+            <image:caption>Modern shag cut by Rilee in Lee County Virginia</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/curtain-bangs.jpg</image:loc>
+            <image:title>Curtain Bangs Hair Styling</image:title>
+            <image:caption>Trendy curtain bangs by expert stylist in Pennington Gap VA</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/lob-wavy.jpg</image:loc>
+            <image:title>Wavy Lob Hair Cut</image:title>
+            <image:caption>Wavy lob haircut by Hair By Rilee</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/updo-elegant.jpg</image:loc>
+            <image:title>Elegant Updo Hair Styling</image:title>
+            <image:caption>Elegant updo for special occasions by Rilee</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/braided-crown.jpg</image:loc>
+            <image:title>Braided Crown Hair Styling</image:title>
+            <image:caption>Beautiful braided crown style by professional stylist</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/textured-crop.jpg</image:loc>
+            <image:title>Textured Crop Hair Cut</image:title>
+            <image:caption>Textured crop haircut by Rilee in Lee County VA</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/sleek-straight.jpg</image:loc>
+            <image:title>Sleek Straight Hair Styling</image:title>
+            <image:caption>Sleek straight hair styling by Hair By Rilee</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/fishtail-braid.jpg</image:loc>
+            <image:title>Fishtail Braid Hair Styling</image:title>
+            <image:caption>Intricate fishtail braid by expert stylist</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/messy-bun.jpg</image:loc>
+            <image:title>Messy Bun Hair Styling</image:title>
+            <image:caption>Stylish messy bun by Rilee in Pennington Gap</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/butterfly-cut.jpg</image:loc>
+            <image:title>Butterfly Cut Hair Styling</image:title>
+            <image:caption>Trendy butterfly cut by professional hair stylist</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/ponytail-high.jpg</image:loc>
+            <image:title>High Ponytail Hair Styling</image:title>
+            <image:caption>High ponytail styling by Hair By Rilee</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/wolf-cut.jpg</image:loc>
+            <image:title>Wolf Cut Hair Styling</image:title>
+            <image:caption>Modern wolf cut by Rilee in Lee County Virginia</image:caption>
+        </image:image>
+        
+        <image:image>
+            <image:loc>https://hairbyrilee.com/images/french-twist.jpg</image:loc>
+            <image:title>French Twist Hair Styling</image:title>
+            <image:caption>Classic french twist updo by professional stylist</image:caption>
+        </image:image>
+    </url>
+</urlset>

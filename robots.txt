@@ -1,0 +1,14 @@
+# robots.txt for hairbyrilee.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://hairbyrilee.com/sitemap.xml
+
+# Allow crawling of images
+Allow: /images/
+
+# Disallow crawling of any admin or private directories (if added in future)
+# Disallow: /admin/
+# Disallow: /private/
