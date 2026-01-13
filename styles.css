@@ -465,6 +465,24 @@ body {
     box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.1);
 }
 
+.built-by {
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    color: rgba(250, 248, 245, 0.6);
+    letter-spacing: 2px;
+}
+
+.built-by a {
+    color: var(--accent-gold);
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.built-by a:hover {
+    color: var(--bg-cream);
+    text-shadow: 0 0 10px rgba(201, 169, 97, 0.5);
+}
+
 /* Modal */
 .modal {
     display: none;
